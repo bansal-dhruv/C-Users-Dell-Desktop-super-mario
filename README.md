@@ -1,2 +1,2 @@
-# C-Users-Dell-Desktop-super-mario
+#Super-mario
 this is new concept pygame
